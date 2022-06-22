@@ -1,0 +1,15 @@
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/bin/Debug/net6.0/CoffeeShop
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/bin/Debug/net6.0/CoffeeShop.deps.json
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/bin/Debug/net6.0/CoffeeShop.runtimeconfig.json
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/bin/Debug/net6.0/CoffeeShop.dll
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/bin/Debug/net6.0/CoffeeShop.pdb
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.csproj.AssemblyReference.cache
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.AssemblyInfoInputs.cache
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.AssemblyInfo.cs
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.csproj.CoreCompileInputs.cache
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.dll
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/refint/CoffeeShop.dll
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.pdb
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/CoffeeShop.genruntimeconfig.cache
+/Users/berkeakgun/Projects/CoffeeShop/CoffeeShop/obj/Debug/net6.0/ref/CoffeeShop.dll
