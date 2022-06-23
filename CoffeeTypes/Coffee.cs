@@ -7,10 +7,10 @@ namespace CoffeeShop.CoffeTypes
         public Coffee()
         {
 
-        }
+        }       
 		
 
-		public  Coffee(int Id, string Name , string Description, decimal Price)
+		public Coffee(int Id, string Name , string Description, decimal Price)
 		{
 			this.Id = Id;
 			this.Name = Name;
